@@ -1,0 +1,24 @@
+.carousel-control-prev {
+    justify-content: center;
+    width: 40px;
+    height: 80px;
+    background-color: white;
+    opacity: 100;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    top:50%;
+    transform: translateY(-50%);
+}
+
+.carousel-control-next{
+    position: absolute;
+    justify-content: center;
+    width: 40px;
+    height: 80px;
+    background-color: white;
+    opacity: 100;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    top:50%;    
+    transform: translateY(-50%);
+}

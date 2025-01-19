@@ -1,0 +1,33 @@
+.category{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    background-color: white;
+    margin-bottom: 15px;    
+    padding-left: 20px;
+    padding-right: 10px;
+    
+}
+@media (max-width:900px) {
+    .image-container-category{
+        margin-left: 20px;
+    }
+    .first-category{
+        margin-left: 0;
+    }
+}
+.category::-webkit-scrollbar{
+    width: 0;
+}
+.offcanvas.offcanvas-end {
+
+    width: 250px;
+}
+
+.image-container-category{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}

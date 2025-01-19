@@ -1,0 +1,15 @@
+.update-cont{
+    display: none;
+    position: absolute;
+    top: 0;
+}
+.prod-details-cate{
+    position: relative;    
+}
+.updateprod{
+    position: relative;
+}
+.save-s:hover{
+background-color: #3360aa;
+color: white;
+}
