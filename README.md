@@ -12,6 +12,23 @@ A small shopping site I built to practice a React front end talking to a Spring 
 
 Images are saved in the database as bytes (5 MB upload limit), not on disk.
 
+## Screenshots
+
+The products and images below are made-up sample data.
+
+**Home page**
+
+![Home page](docs/screenshots/home.png)
+
+**Product page**
+
+![Product page](docs/screenshots/product.png)
+
+**Seller form**
+
+![Seller form](docs/screenshots/sell.png)
+
+
 ## Tech stack
 - Backend: Java 17, Spring Boot, Spring Data JPA, PostgreSQL
 - Frontend: React 18, Vite, React Router, Axios, plain CSS
