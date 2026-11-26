@@ -1,5 +1,7 @@
 # E-commerce
 
+[![build](https://github.com/immanoj22/E-commerce/actions/workflows/build.yml/badge.svg)](https://github.com/immanoj22/E-commerce/actions/workflows/build.yml)
+
 A small shopping site I built to practice a React front end talking to a Spring Boot REST API. You can browse products by category, search, open a product page, add items to a cart, and add, edit or delete products from a seller page. Product data and images are stored in PostgreSQL.
 
 ## What it does
