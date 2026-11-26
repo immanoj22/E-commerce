@@ -70,3 +70,5 @@ The client calls `http://localhost:8080` directly, so the API has to be on that 
 
 ## Notes
 This is a learning project. There is no login, no checkout or payment, and the cart is shared by everyone because it is not tied to a user. The seller page is open to anyone. The API URL is hard-coded in the client and there are no real tests yet. Adding users, auth and an env-based API URL are the next things I would do.
+
+Set `DB_PASSWORD` in your environment for the database password.
